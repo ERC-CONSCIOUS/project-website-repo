@@ -278,33 +278,7 @@ sections:
       spacing:
         padding: ["4rem", 0, "4rem", 0]
 
-  - block: collection
-    id: news
-    content:
-      title: Lab News & Updates
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 3
-      # Filter on criteria
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: card
-      columns: 1
+
 
   - block: logos
     content:
@@ -395,11 +369,11 @@ sections:
 
   - block: cta-card
     content:
-      title: Join Our Research Team
+      title: Join the Sussex Centre for Consciousness Science
       text: We are always looking for talented and motivated researchers to join our lab. We have openings for PhD students, postdoctoral researchers, and research scientists.
       button:
-        text: View Open Positions
-        url: /opportunities
+        text: "View the lab website here:"
+        url: https://www.sussex.ac.uk/research/centres/sussex-centre-for-consciousness-science/
     design:
       card:
         # Card background color (CSS class)
