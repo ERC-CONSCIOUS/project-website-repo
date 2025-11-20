@@ -38,9 +38,9 @@ sections:
           animation: "pulse"
           intensity: "medium"
           colors:
-            - "primary-500/30"
-            - "blue-600/20"
-            - "indigo-600/15"
+          - "orange-500/30"
+          - "purple-600/20"
+          - "fuchsia-600/15"
         
         # Option B: Team/lab image (uncomment to use instead of gradient mesh)
         # image:
@@ -119,7 +119,7 @@ sections:
           description: Conducting ...
           icon: emoji/atom_symbol
           gradient: from-blue-400 to-indigo-600
-          status: emerging
+          status: active
           topics:
             - Dynamical Independence
             - Co-Integration
