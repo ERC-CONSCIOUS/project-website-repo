@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2025-11-20
 type: landing
 
 design:
@@ -38,9 +38,9 @@ sections:
           animation: "pulse"
           intensity: "medium"
           colors:
-          - "orange-500/30"
-          - "purple-600/20"
-          - "fuchsia-600/15"
+          - "green-500/30"
+          - "blue-600/20"
+          - "cyan-400/20"
         
         # Option B: Team/lab image (uncomment to use instead of gradient mesh)
         # image:
