@@ -2,4 +2,4 @@ build:
   hugo_version: '0.152.1'
 template:
   id: "research-group"
-  name: "Research Lab"
+  name: "ERC Conscious"
