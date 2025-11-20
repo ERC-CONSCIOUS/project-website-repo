@@ -248,52 +248,52 @@ sections:
 
 
 
-  - block: logos
-    content:
-      title: Collaborators & Partners
-      subtitle: Leading the way together
-      text: We work with top universities, research institutes, and industry leaders to advance scientific discovery
-      logos:
-        - name: MIT
-          image: partners/placeholder-logo.svg
-          url: https://mit.edu
-          external: true
-          description: Massachusetts Institute of Technology
-        - name: Stanford University
-          image: partners/placeholder-logo.svg
-          url: https://stanford.edu
-          external: true
-          description: Stanford Research Collaboration
-        - name: Google Research
-          image: partners/placeholder-logo.svg
-          url: https://research.google
-          external: true
-          description: AI & Machine Learning Partnership
-        - name: National Science Foundation
-          image: partners/placeholder-logo.svg
-          url: https://nsf.gov
-          external: true
-          description: Research Funding Partner
-        - name: Microsoft Research
-          image: partners/placeholder-logo.svg
-          url: https://www.microsoft.com/research
-          external: true
-          description: Computing Research Collaboration
-        - name: NIH
-          image: partners/placeholder-logo.svg
-          url: https://nih.gov
-          external: true
-          description: National Institutes of Health
-      cta:
-        text: Become a Partner
-        url: /#contact
-        icon: hero/user-plus
-    design:
-      display_mode: grid
-      show_pattern: false
-      css_class: "bg-gradient-to-b from-white to-gray-50 dark:from-gray-800 dark:to-gray-900"
-      spacing:
-        padding: ["4rem", 0, "4rem", 0]
+  # - block: logos
+  #   content:
+  #     title: Collaborators & Partners
+  #     subtitle: Leading the way together
+  #     text: We work with top universities, research institutes, and industry leaders to advance scientific discovery
+  #     logos:
+  #       - name: MIT
+  #         image: partners/placeholder-logo.svg
+  #         url: https://mit.edu
+  #         external: true
+  #         description: Massachusetts Institute of Technology
+  #       - name: Stanford University
+  #         image: partners/placeholder-logo.svg
+  #         url: https://stanford.edu
+  #         external: true
+  #         description: Stanford Research Collaboration
+  #       - name: Google Research
+  #         image: partners/placeholder-logo.svg
+  #         url: https://research.google
+  #         external: true
+  #         description: AI & Machine Learning Partnership
+  #       - name: National Science Foundation
+  #         image: partners/placeholder-logo.svg
+  #         url: https://nsf.gov
+  #         external: true
+  #         description: Research Funding Partner
+  #       - name: Microsoft Research
+  #         image: partners/placeholder-logo.svg
+  #         url: https://www.microsoft.com/research
+  #         external: true
+  #         description: Computing Research Collaboration
+  #       - name: NIH
+  #         image: partners/placeholder-logo.svg
+  #         url: https://nih.gov
+  #         external: true
+  #         description: National Institutes of Health
+  #     cta:
+  #       text: Become a Partner
+  #       url: /#contact
+  #       icon: hero/user-plus
+  #   design:
+  #     display_mode: grid
+  #     show_pattern: false
+  #     css_class: "bg-gradient-to-b from-white to-gray-50 dark:from-gray-800 dark:to-gray-900"
+  #     spacing:
+  #       padding: ["4rem", 0, "4rem", 0]
 
   - block: contact-info
     id: contact
