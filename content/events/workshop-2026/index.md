@@ -1,8 +1,8 @@
 ---
-title: 'Keynote: AI for Scientific Discovery'
-event: International AI in Science Symposium 2024
+title: 'ERC CONSCIOUS Workshop 2026'
+event: Workshop on Computational Phenomenology
 event_url: https://ai-science-symposium.org
-location: Stanford University
+location: Austrian Alps
 address:
   street: 450 Jane Stanford Way
   city: Stanford
