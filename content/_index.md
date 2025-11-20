@@ -52,7 +52,7 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "10+"
+        - statistic: "N+"
           description: Publications in top-tier journals
           sub_metric: Nature, Science, Cell, PNAS
           icon: hero/document-text
@@ -62,11 +62,11 @@ sections:
           icon: hero/user-group
         - statistic: "£2.5M"
           description: Active research funding
-          sub_metric: NSF, NIH, DOE grants
+          sub_metric: ERC Advanced Investigator Grant
           icon: hero/currency-dollar
-        - statistic: "4"
+        - statistic: "n"
           description: Active research projects
-          sub_metric: Across 3 major domains
+          sub_metric: Across n major domains
           icon: hero/beaker
     design:
       layout: cards
@@ -81,61 +81,58 @@ sections:
       subtitle: None
       text: The CONSCIOUS project aims to deliver computational, experimental, and theoretical contributions to the field.
       items:
-        - name: Computational Phenomenology
-          description: Developing state-of-the-art algorithms for genomic analysis, protein structure prediction, and systems biology modeling
+        - name: Computational Phenomenology and Psychophysics
+          description: Developing ...
           icon: hero/beaker
           gradient: from-green-400 to-emerald-600
           status: active
           topics:
-            - Genomics
-            - Proteomics
-            - Bioinformatics
-            - Systems Biology
-            - Drug Discovery
-          team_size: 12
+            - Predictive Coding
+            - Perceptual Inference
+            - Gist Perception
+            - Phenomenological Indeterminacy
+            - Deep Learning
+          team_size: n
           publications: 45+
           funding: $2.5M NSF/NIH
           cta:
             text: Explore Projects
-            url: /research/computational-biology
+            url: /research/computational-phenomenology
             
-        - name: Machine Learning
-          description: Advancing deep learning methods for scientific discovery, with focus on interpretable AI and physics-informed neural networks
+        - name: Bioligical Naturalism and Mind-Life Continuity
+          description: Advancing ...
           icon: hero/cpu-chip
           gradient: from-purple-400 to-pink-600
           status: active
           topics:
-            - Deep Learning
-            - Computer Vision
-            - NLP
-            - Graph Neural Networks
-            - Explainable AI
+            - Biological Naturalism
+            - Computational Functionalism
+            - ...
           team_size: 8
           publications: 32+
           funding: $1.8M NSF
           cta:
             text: View Research
-            url: /research/machine-learning
+            url: /research/biological-naturalism
             
-        - name: Materials Science
-          description: Designing novel materials through computational modeling and machine learning-guided discovery
+        - name: Emergence and Complex Systems
+          description: Conducting ...
           icon: emoji/atom_symbol
           gradient: from-blue-400 to-indigo-600
           status: emerging
           topics:
-            - Nanomaterials
-            - Quantum Materials
-            - Energy Storage
-            - Catalysis
+            - Dynamical Independence
+            - Co-Integration
+            - Granger Causality Maps
           team_size: 6
           publications: 28+
           funding: $1.2M DOE
           cta:
             text: Learn More
-            url: /research/materials-science
+            url: /research/emergence
       cta:
         text: Active Research Projects
-        url: /#research
+        url: /#projects
         icon: hero/arrow-right
     design:
       layout: cards
@@ -148,8 +145,8 @@ sections:
     id: team
     content:
       title: Meet Our Team
-      subtitle: 'World-class researchers pushing the boundaries of science'
-      text: 'Our diverse team of researchers brings together expertise from multiple disciplines to tackle the most challenging problems in computational biology and machine learning.'
+      #subtitle: 'World-class researchers pushing the boundaries of science'
+      text: 'Our diverse team of researchers brings together expertise from multiple disciplines.
       user_groups:
         - Principal Investigators
         - Postdoctoral Researchers
@@ -181,19 +178,19 @@ sections:
         folders:
           - projects
       count: 0  # Number of items to show (0 = all)
-      # Default filter UI (for future release)
-      #default_button_index: 0
-      # Filter toolbar (optional)
-      # Add or remove as many filters as you like
-    #   buttons:
-    #     - name: All
-    #       tag: '*'
-    #     - name: Machine Learning
-    #       tag: ML
-    #     - name: Biology
-    #       tag: Biology
-    #     - name: Materials
-    #       tag: Materials
+      Default filter UI (for future release)
+      default_button_index: 0
+      Filter toolbar (optional)
+      Add or remove as many filters as you like
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Machine Learning
+          tag: ML
+        - name: Biology
+          tag: Biology
+        - name: Materials
+          tag: Materials
     design:
       view: article-grid
       columns: 2
