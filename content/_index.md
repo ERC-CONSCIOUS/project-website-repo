@@ -178,19 +178,19 @@ sections:
         folders:
           - projects
       count: 0  # Number of items to show (0 = all)
-      Default filter UI (for future release)
-      default_button_index: 0
-      Filter toolbar (optional)
-      Add or remove as many filters as you like
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Machine Learning
-          tag: ML
-        - name: Biology
-          tag: Biology
-        - name: Materials
-          tag: Materials
+      #Default filter UI (for future release)
+      #default_button_index: 0
+      #Filter toolbar (optional)
+      # #Add or remove as many filters as you like
+      # buttons:
+      #   - name: All
+      #     tag: '*'
+      #   - name: Machine Learning
+      #     tag: ML
+      #   - name: Biology
+      #     tag: Biology
+      #   - name: Materials
+      #     tag: Materials
     design:
       view: article-grid
       columns: 2
