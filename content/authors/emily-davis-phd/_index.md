@@ -1,38 +1,32 @@
 ---
 # Display name
-title: Emily Davis
+title: Will Yun-Farmbrough
 
 # Role/position/tagline
 role: PhD Student (2nd Year)
 
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: University of Excellence
-    url: https://www.example.edu/
-
 # Short bio (displayed in user profile at end of posts)
-bio: Exploring neural network architectures for biological sequence analysis and prediction.
+bio: Computational Phenomenology with Predictive Coding models of Visual Perception.
 
 # Interests to show in About widget
 interests:
-  - Neural Networks
-  - Sequence Analysis
-  - Natural Language Processing
-  - Bioinformatics
-  - Open Source Software
+  - Predictive Coding
+  - Bio-inspired deep learning
+  - Perceptual Inference
+  - Meta-Problem of Consciousness
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science (In Progress)
-      institution: University of Excellence
-      year: 2022-Present
-    - course: MS in Computer Science
-      institution: University of Washington
+    - course: PhD Computational Phenomenology
+      institution: University of Sussex
+      year: 2024-Present
+    - course: MSc in AI and Adaptive Systems
+      institution: University of Sussex
+      year: 2024
+    - course: BA in Mathematics
+      institution: University of Cambridge
       year: 2022
-    - course: BS in Computer Science & Biology
-      institution: Carnegie Mellon University
-      year: 2020
 
 # Social/Academic Networking
 social:
@@ -56,15 +50,9 @@ user_groups:
   - PhD Students
 ---
 
-Emily is a 2nd year PhD student co-advised by Prof. Smith and Prof. Zhang from the Computer Science department. She is developing novel neural network architectures for biological sequence analysis.
-
 ## Current Projects
 
 - **BioTransformer**: Adapting large language models for DNA/RNA sequence analysis
 - **SeqGAN**: Generative models for protein sequence design
 - **OpenSeq**: Open-source toolkit for biological sequence processing
 
-## Teaching
-
-- Teaching Assistant: CS 585 - Machine Learning for Biology (Fall 2023)
-- Guest Lecturer: Introduction to Bioinformatics (Spring 2023)
