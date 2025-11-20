@@ -78,7 +78,7 @@ sections:
   - block: research-areas
     content:
       title: Research Focus Areas
-      subtitle: 
+      subtitle: None
       text: The CONSCIOUS project aims to deliver computational, experimental, and theoretical contributions to the field.
         - name: Computational Phenomenology
           description: Developing state-of-the-art algorithms for genomic analysis, protein structure prediction, and systems biology modeling
