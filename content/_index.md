@@ -143,38 +143,6 @@ sections:
       spacing:
         padding: ["5rem", 0, "5rem", 0]
 
-  - block: cta-image-paragraph
-    content:
-      items:
-        - title: 'State-of-the-Art Research Environment'
-          text: |
-            Our laboratory features cutting-edge equipment and modern research facilities designed to support breakthrough discoveries. From advanced computational clusters to precision instrumentation, we provide our researchers with the tools they need to push the boundaries of science.
-          image: pexels-polina-tankilevitch-3735769.jpg
-          feature_icon: hero/check-circle
-          features:
-            - 'High-Performance Computing: 500+ core GPU cluster for AI/ML research'
-            - 'Advanced Instrumentation: Precision equipment for materials characterization'
-            - 'Safety & Compliance: Full safety protocols and regulatory compliance'
-          button:
-            text: 'Virtual Lab Tour'
-            url: '/facilities'
-
-        - title: 'Collaborative Innovation Culture' 
-          text: |
-            Breakthrough research happens through collaboration. Our open lab environment fosters cross-disciplinary partnerships, knowledge sharing, and mentorship between senior researchers and emerging scientists. Every team member contributes to our collective mission of advancing scientific understanding.
-          image: pexels-canvastudio-3153198.jpg
-          feature_icon: hero/users
-          features:
-            - 'Cross-Disciplinary Teams: Biologists, engineers, and computer scientists working together'
-            - 'Knowledge Sharing: Weekly seminars and collaborative research meetings'
-            - 'Mentorship Program: Structured guidance for PhD students and postdocs'
-          button:
-            text: 'Join Our Community'
-            url: '/opportunities'
-    design:
-      css_class: "bg-white dark:bg-gray-800"
-      spacing:
-        padding: ["4rem", 0, "4rem", 0]
 
   - block: team-showcase
     id: team
