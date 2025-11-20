@@ -146,7 +146,7 @@ sections:
     content:
       title: Meet Our Team
       #subtitle: 'World-class researchers pushing the boundaries of science'
-      text: 'Our diverse team of researchers brings together expertise from multiple disciplines.
+      text: 'Our diverse team of researchers brings together expertise from multiple disciplines.'
       user_groups:
         - Principal Investigators
         - Postdoctoral Researchers
