@@ -18,7 +18,7 @@ sections:
         As members of the Sussex Centre for Consciousness Science, our work spans computational, experimental, and philosophical approaches towards understanding conscious experience. We are supported by the ERC CONSCIOUS grant awarded to PI Anil Seth. We are based at the University of Sussex, UK. 
     
       primary_action:
-        text: Join Our Team
+        text: Meet Our Team
         url: '#team'
         icon: hero/user-group
       secondary_action:
@@ -52,19 +52,19 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "50+"
+        - statistic: "10+"
           description: Publications in top-tier journals
           sub_metric: Nature, Science, Cell, PNAS
           icon: hero/document-text
-        - statistic: "15"
+        - statistic: "6"
           description: Brilliant researchers and scientists
-          sub_metric: From 8 countries worldwide
+          sub_metric: From 4 countries worldwide
           icon: hero/user-group
-        - statistic: "$5M"
+        - statistic: "£2.5M"
           description: Active research funding
           sub_metric: NSF, NIH, DOE grants
           icon: hero/currency-dollar
-        - statistic: "12"
+        - statistic: "4"
           description: Active research projects
           sub_metric: Across 3 major domains
           icon: hero/beaker
@@ -78,10 +78,9 @@ sections:
   - block: research-areas
     content:
       title: Research Focus Areas
-      subtitle: Pushing the Boundaries of Science
-      text: Our lab conducts cutting-edge research across multiple domains, combining computational methods with experimental validation
-      items:
-        - name: Computational Biology
+      subtitle: 
+      text: The CONSCIOUS project aims to deliver computational, experimental, and theoretical contributions to the field.
+        - name: Computational Phenomenology
           description: Developing state-of-the-art algorithms for genomic analysis, protein structure prediction, and systems biology modeling
           icon: hero/beaker
           gradient: from-green-400 to-emerald-600
