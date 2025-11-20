@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Sarah Johnson
+title: Dr Lionel Barnett
 
 # Role/position/tagline
-role: PhD Student (4th Year)
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:

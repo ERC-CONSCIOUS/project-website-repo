@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Jane Smith
+title: Prof. Anil Seth
 
 # Is this the primary user of the site?
 superuser: true

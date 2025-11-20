@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Michael Chen
+title: Dr. Robert Chis-Ciure
 
 # Role/position/tagline
 role: Postdoctoral Researcher
@@ -15,11 +15,7 @@ bio: Developing deep learning models for protein structure prediction and drug d
 
 # Interests to show in About widget
 interests:
-  - Deep Learning
-  - Protein Folding
-  - Drug Discovery
-  - Structural Biology
-  - AlphaFold
+  - ...
 
 # Education to show in About widget
 education:

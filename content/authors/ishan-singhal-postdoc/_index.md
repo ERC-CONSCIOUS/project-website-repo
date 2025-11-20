@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Alex Wong
+title: Dr. Ishan Singhal
 
 # Role/position/tagline
 role: Postdoctoral Researcher
