@@ -92,9 +92,7 @@ sections:
             - Gist Perception
             - Phenomenological Indeterminacy
             - Deep Learning
-          team_size: n
-          publications: 45+
-          funding: $2.5M NSF/NIH
+
           cta:
             text: Explore Projects
             url: /research/computational-phenomenology
@@ -108,9 +106,6 @@ sections:
             - Biological Naturalism
             - Computational Functionalism
             - ...
-          team_size: 8
-          publications: 32+
-          funding: $1.8M NSF
           cta:
             text: View Research
             url: /research/biological-naturalism
@@ -124,9 +119,7 @@ sections:
             - Dynamical Independence
             - Co-Integration
             - Granger Causality Maps
-          team_size: 6
-          publications: 28+
-          funding: $1.2M DOE
+
           cta:
             text: Learn More
             url: /research/emergence
@@ -301,31 +294,22 @@ sections:
       connect_title: Connect With Us
       address:
         lines:
-          - Smith Laboratory
-          - Department of Computer Science
-          - University of Excellence
-          - 123 Science Drive
-          - Excellence City, EC 12345
-          - United States
-      office_hours:
-        - "Monday - Friday: 9:00 AM - 5:00 PM"
-        - "Lab Meetings: Fridays 2:00 PM"
-      email: lab@example.edu
-      phone: "+1 (555) 123-4567"
+          - Sussex Centre for Consciousness Science
+          - Department of Informatics and Engineering
+          - University of Sussex
+          - United Kindgom
+
+      email: a.k.seth@sussex.ac.uk
       social:
-        - icon: brands/x
-          url: https://twitter.com/SmithLabResearch
-        - icon: brands/linkedin
-          url: https://linkedin.com/company/smith-lab
-        - icon: brands/github
-          url: https://github.com/smith-lab
+        - icon: hero/envelope
+          url: https://www.sussex.ac.uk/research/centres/sussex-centre-for-consciousness-science/
       prospective:
         title: Prospective Members
         text: Interested in joining our lab? We're always looking for motivated researchers at all levels.
         button:
           text: View Open Positions
           url: /opportunities
-      map_url: https://maps.google.com/?q=University+of+Excellence
+      map_url: https://maps.google.com/?q=University+of+Sussex
       show_form: false
     design:
       css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
