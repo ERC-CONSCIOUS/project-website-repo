@@ -13,10 +13,10 @@ sections:
     id: about
     content:
       title: |
-        Research Lab for
-        **Advancing Science**
+        Welcome to the ERC CONSCIOUS Project Website
       text: |
-        We are a leading research group focused on pushing the boundaries of knowledge through innovative research and collaboration. Our multidisciplinary team works on cutting-edge projects at the intersection of technology and science.
+        As members of the Sussex Centre for Consciousness Science, our work spans computational, experimental, and philosophical approaches towards understanding conscious experience. We are supported by the ERC CONSCIOUS grant awarded to PI Anil Seth. We are based at the University of Sussex, UK. 
+    
       primary_action:
         text: Join Our Team
         url: '#team'
@@ -25,11 +25,8 @@ sections:
         text: View Publications
         url: '#publications'
         icon: hero/academic-cap
-      announcement:
-        text: "We are hiring PhD students and postdocs!"
-        link:
-          text: "Apply now"
-          url: "/opportunities"
+    
+    
     design:
       # For full-screen, add `min-h-screen` below
       css_class: ""
