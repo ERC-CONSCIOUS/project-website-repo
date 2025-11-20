@@ -1,13 +1,13 @@
 ---
-title: "NeuroLink AI: Next-Generation Brain-Computer Interfaces"
+title: "Example Project"
 date: 2024-02-01
 authors: ["Dr. Sarah Kim", "Prof. Jane Smith", "Dr. Michael Chen", "Emily Davis"]
 tags:
-  - Neuroscience
-  - Brain-Computer Interface
+  - Predictive Coding
+  - Phenomenology
   - Machine Learning
 featured: true
-summary: "Developing AI-powered brain-computer interfaces that can decode complex neural signals to restore mobility and communication for patients with neurological disorders."
+summary: "Developing ... "
 image:
   filename: featured.png
   focal_point: "Center"
