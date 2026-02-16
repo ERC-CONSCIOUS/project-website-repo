@@ -247,7 +247,7 @@ sections:
       image:
         caption: 'ERC'
         focal_point: Center
-        filename: partners/erc logo.png
+        filename: partners/avatar.jpg
       
 
        
