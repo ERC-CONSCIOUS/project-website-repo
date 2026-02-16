@@ -239,7 +239,7 @@ sections:
 
 
 
-  - block: logos
+  - block: collection
     content:
       title: Funding
       #subtitle: Leading the way together
@@ -256,9 +256,10 @@ sections:
       #   url: /#contact
       #   icon: hero/user-plus
     design:
-      css_class: "bg-gradient-to-b from-white to-gray-50 dark:from-gray-800 dark:to-gray-900" 
-      spacing:
-        padding: ["4rem", 0, "4rem", 0]
+      view: citation
+      # css_class: "bg-gradient-to-b from-white to-gray-50 dark:from-gray-800 dark:to-gray-900" 
+      # spacing:
+      #   padding: ["4rem", 0, "4rem", 0]
 
   - block: contact-info
     id: contact
