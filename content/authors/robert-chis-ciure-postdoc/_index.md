@@ -11,7 +11,7 @@ role: Postdoctoral Researcher
 #     url: https://www.example.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Philosophy of mind, life, and phenomeno
+bio: Philosophy of mind, life, and phenomenology
 
 # Interests to show in About widget
 interests:

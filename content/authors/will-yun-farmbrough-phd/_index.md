@@ -6,7 +6,7 @@ title: Will Yun-Farmbrough
 role: PhD Student (2nd Year)
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computational Phenomenology with Predictive Coding models of Visual Perception.
+bio: Computational phenomenology of predictive perception
 
 # Interests to show in About widget
 interests:

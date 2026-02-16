@@ -15,11 +15,11 @@ banner:
   image: ''
 ---
 
-# Meet Our Research Team
+<!--# Meet Our Research Team
 
 Our lab brings together talented researchers from diverse backgrounds, united by a shared passion for advancing science through computational methods. We foster a collaborative environment where innovation thrives and each team member contributes their unique expertise to our collective mission.
 
-## Team Structure
+<!--## Team Structure
 
 - **Principal Investigators**: Leading research vision and strategy
 - **Postdoctoral Researchers**: Driving cutting-edge research projects
@@ -27,7 +27,7 @@ Our lab brings together talented researchers from diverse backgrounds, united by
 - **Research Scientists**: Providing technical expertise and continuity
 - **Undergraduate Researchers**: Learning and contributing to ongoing projects
 
-## Join Our Team
+<!--## Join Our Team
 
 We are always looking for motivated individuals who share our passion for research. If you're interested in joining our lab, please check our [open positions](/opportunities) or contact us directly.
 
