@@ -14,7 +14,7 @@ role: Principal Investigator & Lab Director
 #     url: https://www.example.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ...
+bio: Principal Investigator
 
 # Interests to show in About widget
 interests:

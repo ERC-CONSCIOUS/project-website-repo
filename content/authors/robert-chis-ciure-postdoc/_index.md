@@ -11,7 +11,7 @@ role: Postdoctoral Researcher
 #     url: https://www.example.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ...
+bio: Philosophy of mind, life, and phenomenology
 
 # Interests to show in About widget
 interests:
@@ -54,7 +54,7 @@ user_groups:
   - Postdoctoral Researchers
 ---
 
-Robert is...
+Robert Chis-Ciure was a Fulbright Postdoctoral Research Fellow at New York University under David Chalmers, working interdisciplinarily on consciousness, cognition, and computation. He also worked on consciousness and computational modeling at the Giulio Tononi lab as a Fulbright Doctoral Student and with the Georg Northoff lab as a postdoctoral research fellow on computational and experimental measures in consciousness theories. Robert currently works on philosophical topics encompassing biological naturalism and computational neurophenomenology. 
 
 ## Current Projects
 

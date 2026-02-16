@@ -6,7 +6,7 @@ title: Luis Lips
 role: PhD Student (2nd Year)
 
 # Short bio (displayed in user profile at end of posts)
-bio: ...
+bio: Neuroimaging and Complex Systems
 
 # Interests to show in About widget
 interests:
@@ -42,9 +42,9 @@ user_groups:
   - PhD Students
 ---
 
-Luis is ... 
+Luis Lips is a PhD student in Computational Neurophenomenology at the University of Sussex, with a background in computer science. He completed his Master's degree at the University of Stuttgart, where he focused on cognitive science, reinforcement learning, and machine learning. His dissertation helped lay the groundwork for a new EEG analysis toolbox for evaluating mixed-effects models based on large-scale simulations. Luis has worked on applying granger causality analysis to MEG data recorded during sleep stages, and is working towards further research on granger causality and dynamical independence.
 
-## Current Projects
+<!--## Current Projects
 
 - **BioTransformer**: Adapting large language models for DNA/RNA sequence analysis
 - **SeqGAN**: Generative models for protein sequence design

@@ -11,7 +11,9 @@ role: Postdoctoral Researcher
 #     url: https://www.example.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ...
+bio: Constraining predictive processing approaches via phenomenological principles.
+
+
 # Interests to show in About widget
 interests:
   - ...
@@ -53,9 +55,9 @@ user_groups:
   - Postdoctoral Researchers
 ---
 
-Ishan is ...
+Ishan Singhal joins the CONSCIOUS project as a postdoc after having worked on temporal properties of consciousness in his PhD, and on dynamics of mental imagery as a postdoc (both at the Indian Institute of Technology, Kanpur). He is interested in excavating phenomenological principles that can constrain models of perceptual experience. He aims to design experiments that can pinpoint relevant phenomenological constraints for models of consciousness.
 
-## Research Interests
+<!--## Research Interests
 
 <!-- Alex specializes in:
 - Building computational models of cellular signaling networks
@@ -63,7 +65,7 @@ Ishan is ...
 - Identifying drug repurposing opportunities through network analysis
 - Developing tools for systems-level analysis of biological data -->
 
-## Key Publications
+<!--## Key Publications
 
 <!-- - Wong A, et al. (2023). "Network-based drug repurposing for COVID-19." *Science Translational Medicine*.
 - Wong A, et al. (2022). "Multi-omics integration reveals disease mechanisms." *Nature Biotechnology*.

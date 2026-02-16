@@ -50,7 +50,7 @@ user_groups:
   - PhD Students
 ---
 
-Will is ...
+Will Yun-Farmbrough is a PhD candidate in computational neurophenomenology at the University of Sussex. He works on predictive coding networks as models of perceptual processing and properties of phenomenology. 
 
 ## Current Projects
 
