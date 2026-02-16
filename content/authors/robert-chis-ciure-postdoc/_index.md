@@ -11,7 +11,7 @@ role: Postdoctoral Researcher
 #     url: https://www.example.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Philosophy of mind, life, and phenomenology
+bio: Philosophy of mind, life, and phenomeno
 
 # Interests to show in About widget
 interests:
@@ -56,13 +56,13 @@ user_groups:
 
 Robert Chis-Ciure was a Fulbright Postdoctoral Research Fellow at New York University under David Chalmers, working interdisciplinarily on consciousness, cognition, and computation. He also worked on consciousness and computational modeling at the Giulio Tononi lab as a Fulbright Doctoral Student and with the Georg Northoff lab as a postdoctoral research fellow on computational and experimental measures in consciousness theories. Robert currently works on philosophical topics encompassing biological naturalism and computational neurophenomenology. 
 
-## Current Projects
+<!-- ## Current Projects
 
 <!-- - **DeepFold**: Developing next-generation protein structure prediction models
 - **DrugAI**: Machine learning pipeline for virtual drug screening
 - **ProteinGPT**: Large language models for protein sequence analysis -->
 
-## Selected Publications
+<!--## Selected Publications
 
 <!-- - Chen M, et al. (2023). "Enhanced protein structure prediction using graph neural networks." *Nature Methods*.
 - Chen M, et al. (2022). "Deep learning approaches for drug-target interaction prediction." *Cell*.
