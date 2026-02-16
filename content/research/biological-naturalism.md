@@ -1,11 +1,11 @@
 ---
-title: Machine Learning
+title: Biological Naturalism and Mind-Life Continuity
 date: 2024-01-11
-summary: Interpretable AI and physics-informed neural networks for scientific discovery.
-tags: [AI, Deep Learning, Computer Vision, NLP, Graphs]
+summary: TBD
+tags: []
 ---
 
-## Overview
+<!--## Overview
 We build robust and interpretable ML models to accelerate scientific discovery across domains, with emphasis on generalization, uncertainty, and physical constraints.
 
 ## Focus Areas

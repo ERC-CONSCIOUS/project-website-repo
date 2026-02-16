@@ -1,11 +1,11 @@
 ---
-title: Computational Biology
+title: Computational Phenomenology
 date: 2024-01-10
-summary: Algorithms for genomic analysis, protein structure prediction, and systems biology modeling.
-tags: [Biology, Genomics, Proteomics, Systems Biology]
+summary: TBD
+tags: []
 ---
 
-## Overview
+<!--## Overview
 We develop algorithms and tools to analyze complex biological data at scale, from genomes to proteomes, integrating multi-omics data for systems-level understanding.
 
 ## Current Projects

@@ -1,11 +1,11 @@
 ---
-title: Materials Science
+title: Emergence and Complex Systems
 date: 2024-01-12
-summary: Computational discovery and characterization of novel materials for energy and electronics.
-tags: [Materials, Quantum, Energy Storage, Catalysis]
+summary: TBD
+tags: []
 ---
 
-## Overview
+<!--## Overview
 We design and discover materials using computational modeling, machine learning, and high-throughput simulation, validated through experimental collaborations.
 
 ## Themes
