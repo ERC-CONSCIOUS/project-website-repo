@@ -243,7 +243,7 @@ sections:
     content:
       title: Funding
       #subtitle: Leading the way together
-      text: This project has received funding from the European Research Council (ERC) under the EuropeanUnion’s Horizon 2020 research and innovation programme (grant agreement No 101019254): https://cordis.europa.eu/project/id/101019254
+      text: This project has received funding from the European Research Council (ERC) under the EuropeanUnion’s Horizon 2020 research and innovation programme (grant agreement No 101019254). 
       image:
         caption: 'ERC'
         focal_point: Center
