@@ -52,10 +52,10 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "N+"
-          description: Publications in top-tier journals
-          sub_metric: Nature, Science, Cell, PNAS
-          icon: hero/document-text
+        # - statistic: ""
+        #   description: Publications in top-tier journals
+        #   sub_metric: Nature, Science, Cell, PNAS
+        #   icon: hero/document-text
         - statistic: "6"
           description: Brilliant researchers and scientists
           sub_metric: From 4 countries worldwide
@@ -64,9 +64,9 @@ sections:
           description: Active research funding
           sub_metric: ERC Advanced Investigator Grant
           icon: hero/currency-dollar
-        - statistic: "n"
+        - statistic: "6"
           description: Active research projects
-          sub_metric: Across n major domains
+          sub_metric: Across 3 major domains
           icon: hero/beaker
     design:
       layout: cards
