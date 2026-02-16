@@ -217,9 +217,9 @@ sections:
   - block: collection
     id: events
     content:
-      title: Events
-      subtitle: Join Us for Research Presentations & Seminars
-      text: Stay connected with our research community through talks, workshops, and collaborative events
+      title: Upcoming Events
+      #subtitle: Join Us for Research Presentations & Seminars
+      #text: Stay connected with our research community through talks, workshops, and collaborative events
       filters:
         folders:
           - events
@@ -256,9 +256,9 @@ sections:
       #   url: /#contact
       #   icon: hero/user-plus
     design:
-      display_mode: grid
+      display_mode: centered
       show_pattern: false
-      css_class: "bg-gradient-to-b from-white to-gray-50 dark:from-gray-800 dark:to-gray-900"
+      css_class: "bg-gradient-to-b from-white to-gray-50 dark:from-gray-800 dark:to-gray-900" 
       spacing:
         padding: ["4rem", 0, "4rem", 0]
 
