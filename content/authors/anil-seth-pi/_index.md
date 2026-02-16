@@ -68,11 +68,14 @@ user_groups:
   - Principal Investigators
 ---
 
-## About the Lab
+## About Anil
 
-Prof Anil Seth... 
+Anil Seth is Professor of Cognitive and Computational Neuroscience and Director of the Centre for Consciousness Science at the University of Sussex. He is also Co-Director of the Canadian Institute for Advanced Research Program on Brain, Mind, and Consciousness, a European Research Council Advanced Investigator, and until recently, Editor of Neuroscience of Consciousness. 
 
-## Research Vision
+Read more: https://www.anilseth.com/
+
+
+<!--# # Research Vision
 
 <!-- Our lab focuses on developing and applying cutting-edge machine learning techniques to solve complex biological problems. We work at the intersection of computer science, biology, and medicine to:
 
@@ -81,17 +84,17 @@ Prof Anil Seth...
 - **Analyze genomic data** to understand disease mechanisms
 - **Develop open-source tools** for the scientific community -->
 
-## Leadership & Mentorship
+<!--# Leadership & Mentorship
 
 <!-- Prof. Smith has mentored over 30 PhD students and postdoctoral researchers, many of whom have gone on to successful careers in academia and industry. She is committed to fostering an inclusive and collaborative research environment where all team members can thrive. -->
 
-## Awards & Recognition
+<!-- Awards & Recognition
 
 <!-- - 2023 - National Science Foundation CAREER Award
 - 2022 - Chan Zuckerberg Initiative Investigator
 - 2021 - MIT Technology Review Innovator Under 40
 - 2020 - NIH New Innovator Award -->
 
-## Join Our Team
+<!--# Join Our Team
 
-<!-- We are always looking for passionate researchers to join our lab. If you're interested in working at the forefront of computational biology and machine learning, please [contact us](/contact) with your CV and research interests. -->
+We are always looking for passionate researchers to join our lab. If you're interested in working at the forefront of computational biology and machine learning, please [contact us](/contact) with your CV and research interests.
