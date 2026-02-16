@@ -76,9 +76,10 @@ sections:
         padding: ["3rem", 0, "3rem", 0]
 
   - block: research-areas
+    id: research-areas
     content:
       title: Research Focus Areas
-      subtitle: None
+      #subtitle: None
       text: The CONSCIOUS project aims to deliver computational, experimental, and theoretical contributions to the field.
       items:
         - name: Computational Phenomenology and Psychophysics
@@ -161,32 +162,32 @@ sections:
       spacing:
         padding: ["3rem", 0, "3rem", 0]
 
-  - block: collection
-    id: projects
-    content:
-      title: Active Research Projects
-      subtitle: ''
-      text: ''
-      filters:
-        folders:
-          - projects
-      count: 0  # Number of items to show (0 = all)
-      #Default filter UI (for future release)
-      #default_button_index: 0
-      #Filter toolbar (optional)
-      # #Add or remove as many filters as you like
-      # buttons:
-      #   - name: All
-      #     tag: '*'
-      #   - name: Machine Learning
-      #     tag: ML
-      #   - name: Biology
-      #     tag: Biology
-      #   - name: Materials
-      #     tag: Materials
-    design:
-      view: article-grid
-      columns: 2
+  # - block: collection
+  #   id: projects
+  #   content:
+  #     title: Active Research Projects
+  #     subtitle: ''
+  #     text: ''
+  #     filters:
+  #       folders:
+  #         - projects
+  #     count: 0  # Number of items to show (0 = all)
+  #     #Default filter UI (for future release)
+  #     #default_button_index: 0
+  #     #Filter toolbar (optional)
+  #     # #Add or remove as many filters as you like
+  #     # buttons:
+  #     #   - name: All
+  #     #     tag: '*'
+  #     #   - name: Machine Learning
+  #     #     tag: ML
+  #     #   - name: Biology
+  #     #     tag: Biology
+  #     #   - name: Materials
+  #     #     tag: Materials
+  #   design:
+  #     view: article-grid
+  #     columns: 2
 
   - block: collection
     id: publications
@@ -201,17 +202,17 @@ sections:
     design:
       view: citation
 
-  - block: collection
-    id: featured
-    content:
-      title: Featured Research
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Research
+  #     filters:
+  #       folders:
+  #         - publications
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
 
   - block: collection
     id: events
