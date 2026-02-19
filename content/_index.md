@@ -238,37 +238,25 @@ sections:
         padding: ["4rem", 0, "4rem", 0]
 
             
-  - block: collection
-    id: funding
+
+  - block: markdown
     content:
       title: "Funding"
-      text:
-        This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 101019254).</p>
-      filters:
-        folders:
-          - funding
+      #subtitle: "More details below"
+      text: |
       
+        This project has received funding from the European Research Council (ERC) under the EuropeanUnion’s Horizon 2020 research and innovation programme (grant agreement No 101019254). 
+
+        ![ERC logo](/assets/media/partners/avatar.jpg)
+        ![ERC logo](/avatar.jpg)
+        ![ERC logo](/static/avatar.jpg)
+
+
+
     design:
-      view: showcase
-      #columns: "1"
-      #background:
-      #  color: "white"
-
-
-  # - block: markdown
-  #   content:
-  #     title: "Funding"
-  #     #subtitle: "More details below"
-  #     text: |
-      
-  #       This project has received funding from the European Research Council (ERC) under the EuropeanUnion’s Horizon 2020 research and innovation programme (grant agreement No 101019254). 
-
-  #       ![ERC logo](/erc-logo.png)
-
-  #   design:
-  #     columns: "1"
-  #     background:
-  #       color: "white"
+      columns: "1"
+      background:
+        color: "white"
 
 
   # - block: collection
