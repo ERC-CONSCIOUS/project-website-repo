@@ -243,9 +243,12 @@ sections:
     content:
       title: "Funding"
       #subtitle: "More details below"
-      text: This project has received funding from the European Research Council (ERC) under the EuropeanUnion’s Horizon 2020 research and innovation programme (grant agreement No 101019254). 
+      text: |
       
-      [ERC logo](/assets/media/partners/avatar.jpg)
+        This project has received funding from the European Research Council (ERC) under the EuropeanUnion’s Horizon 2020 research and innovation programme (grant agreement No 101019254). 
+
+        [ERC logo](/assets/media/partners/avatar.jpg)
+        
     design:
       columns: "1"
       background:
