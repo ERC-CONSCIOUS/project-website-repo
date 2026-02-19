@@ -15,7 +15,9 @@ sections:
       title: |
         Welcome to the ERC CONSCIOUS Project Website
       text: |
-        As members of the Sussex Centre for Consciousness Science, our work spans computational, experimental, and philosophical approaches towards understanding conscious experience. We are supported by the ERC CONSCIOUS grant awarded to PI Anil Seth. We are based at the University of Sussex, UK. 
+        As members of the Sussex Centre for Consciousness Science (University of Sussex, UK), our work spans computational, experimental, and philosophical approaches towards understanding conscious experience. 
+        
+        Project CONSCIOUS is funded by the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant No. 101019254).
     
       primary_action:
         text: Meet Our Team
@@ -48,6 +50,28 @@ sections:
         #   filters:
         #     brightness: 0.6
         #     contrast: 1.1
+
+  - block: hero
+    id: funding
+    content:
+      #title: Our Funding
+      #text: |
+        # This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 101019254).
+
+    design:
+    # css_class: "bg-white text-center py-40"  # Taller panel (more vertical padding)
+      #title_css_class: "text-[18px] font-bold text-black"   # Small title, black
+      #text_css_class: "text-[16px] text-black max-w-3xl mx-auto mt-4"  # Smaller text, black, centered, constrained width
+      background:
+        image:
+          filename: "erc-logo-background.png"  # Make sure this is in static/
+          filters:
+          # brightness: 1.0
+          # contrast: 1.0
+          parallax: false  # Disable parallax
+
+
+
 
   - block: stats
     content:
@@ -257,25 +281,7 @@ sections:
   #     columns: "1"
   #     background:
   #       color: "white"
-  - block: hero
-    id: funding
-    content:
-      title: Our Funding
-      text: |
-        This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 101019254).
-
-    design:
-     # css_class: "bg-white text-center py-40"  # Taller panel (more vertical padding)
-      title_css_class: "text-[18px] font-bold text-black"   # Small title, black
-      text_css_class: "text-[16px] text-black max-w-3xl mx-auto mt-4"  # Smaller text, black, centered, constrained width
-      background:
-        image:
-          filename: "erc-logo-background.png"  # Make sure this is in static/
-          filters:
-           # brightness: 1.0
-           # contrast: 1.0
-          parallax: false  # Disable parallax
-
+  
   # - block: collection
   #   content:
   #     title: Funding
