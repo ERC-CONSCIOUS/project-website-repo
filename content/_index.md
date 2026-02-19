@@ -265,30 +265,18 @@ sections:
     
       text: |
         This project has received funding from the European Research Council (ERC) under the EuropeanUnion’s Horizon 2020 research and innovation programme (grant agreement No 101019254). 
+        
 
-      image:
-        caption: 'ERC'
-        focal_point: Center
-        filename: partners/avatar.jpg 
-
-      # primary_action:
-      #   text: Meet Our Team
-      #   url: '#team'
-      #   icon: hero/user-group
-      # secondary_action:
-      #   text: View Publications
-      #   url: '#publications'
-      #   icon: hero/academic-cap
-    
-    
+  
     design:
       # For full-screen, add `min-h-screen` below
       css_class: ""
       background:
-        color: "white"
-
-        # Option B: Team/lab image (uncomment to use instead of gradient mesh)
-        # 
+        image:
+          filename: "erc-logo-background.png"
+          filters:
+            brightness: 1.0
+            contrast: 1.0
 
   # - block: collection
   #   content:
