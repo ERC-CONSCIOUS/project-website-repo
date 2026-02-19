@@ -257,26 +257,24 @@ sections:
   #     columns: "1"
   #     background:
   #       color: "white"
-
-
   - block: hero
     id: funding
     content:
       title: Our Funding
       text: |
-        This project has received funding from the European Research Council (ERC) under the EuropeanUnion’s Horizon 2020 research and innovation programme (grant agreement No 101019254). 
-        
+        This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 101019254).
 
-  
     design:
-      # For full-screen, add `min-h-screen` below
-      css_class: ""
+      css_class: "bg-white text-center py-40"  # Taller panel (more vertical padding)
+      title_css_class: "text-[18px] font-bold text-black"   # Small title, black
+      text_css_class: "text-[16px] text-black max-w-3xl mx-auto mt-4"  # Smaller text, black, centered, constrained width
       background:
         image:
-          filename: "erc-logo-background.png"
+          filename: "erc-logo-background.png"  # Make sure this is in static/
           filters:
             brightness: 1.0
             contrast: 1.0
+          parallax: false  # Disable parallax
 
   # - block: collection
   #   content:
