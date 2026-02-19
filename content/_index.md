@@ -239,27 +239,43 @@ sections:
 
 
 
-  - block: collection
+  - block: markdown
     content:
-      title: Funding
-      #subtitle: Leading the way together
+      title: "Funding"
+      #subtitle: "More details below"
       text: This project has received funding from the European Research Council (ERC) under the EuropeanUnion’s Horizon 2020 research and innovation programme (grant agreement No 101019254). 
       image:
         caption: 'ERC'
         focal_point: Center
         filename: partners/avatar.jpg
-      
-
-       
-      # cta:
-      #   text: Become a Partner
-      #   url: /#contact
-      #   icon: hero/user-plus
     design:
-      view: citation
-      # css_class: "bg-gradient-to-b from-white to-gray-50 dark:from-gray-800 dark:to-gray-900" 
-      # spacing:
-      #   padding: ["4rem", 0, "4rem", 0]
+      columns: "1"
+      background:
+        color: "white"
+
+
+  # - block: collection
+  #   content:
+  #     title: Funding
+  #     #subtitle: Leading the way together
+  #     text: 
+  #     image:
+  #       caption: 'ERC'
+  #       focal_point: Center
+  #       filename: partners/avatar.jpg
+      
+  #     # cta:
+  #     #   text: Become a Partner
+  #     #   url: /#contact
+  #     #   icon: hero/user-plus
+  #   design:
+  #     view: citation
+  #     # css_class: "bg-gradient-to-b from-white to-gray-50 dark:from-gray-800 dark:to-gray-900" 
+  #     # spacing:
+  #     #   padding: ["4rem", 0, "4rem", 0]
+
+
+
 
   - block: contact-info
     id: contact
