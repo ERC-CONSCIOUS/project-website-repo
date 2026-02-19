@@ -245,7 +245,7 @@ sections:
         <p>This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 101019254).</p>
 
         <figure style="margin-top:1rem; text-align:center;">
-          <img src="/assets/media/partners/erc-logo.png" alt="ERC logo" style="max-width:250px; width:100%; height:auto;">
+          <img src="/static/erc-logo.png" alt="ERC logo" style="max-width:250px; width:100%; height:auto;">
           <figcaption style="font-size:0.9rem; color:#555;">ERC</figcaption>
         </figure>
     design:
