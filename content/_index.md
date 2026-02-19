@@ -237,22 +237,35 @@ sections:
       spacing:
         padding: ["4rem", 0, "4rem", 0]
 
-
-
-  - block: markdown
+          
+  - block: collection
     content:
       title: "Funding"
-      #subtitle: "More details below"
-      text: |
-      
-        This project has received funding from the European Research Council (ERC) under the EuropeanUnion’s Horizon 2020 research and innovation programme (grant agreement No 101019254). 
-
-        ![ERC logo](/erc-logo.png)
-
+      text: "This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 101019254)."
+      image:
+        caption: "ERC"
+        filename: "/partners/erc-logo.png"
     design:
-      columns: "1"
+      view: citation
+      columns: 1
       background:
         color: "white"
+
+
+  # - block: markdown
+  #   content:
+  #     title: "Funding"
+  #     #subtitle: "More details below"
+  #     text: |
+      
+  #       This project has received funding from the European Research Council (ERC) under the EuropeanUnion’s Horizon 2020 research and innovation programme (grant agreement No 101019254). 
+
+  #       ![ERC logo](/erc-logo.png)
+
+  #   design:
+  #     columns: "1"
+  #     background:
+  #       color: "white"
 
 
   # - block: collection
