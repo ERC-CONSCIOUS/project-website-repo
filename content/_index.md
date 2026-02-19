@@ -239,25 +239,56 @@ sections:
 
             
 
-  - block: markdown
-    content:
-      title: "Funding"
-      #subtitle: "More details below"
-      text: |
+  # - block: markdown
+  #   content:
+  #     title: "Funding"
+  #     #subtitle: "More details below"
+  #     text: |
       
+  #       This project has received funding from the European Research Council (ERC) under the EuropeanUnion’s Horizon 2020 research and innovation programme (grant agreement No 101019254). 
+
+  #       ![ERC logo](/assets/media/partners/avatar.jpg)
+  #       ![ERC logo](/avatar.jpg)
+  #       ![ERC logo](/static/avatar.jpg)
+
+
+
+  #   design:
+  #     columns: "1"
+  #     background:
+  #       color: "white"
+
+
+  - block: hero
+    id: funding
+    content:
+    
+      text: |
         This project has received funding from the European Research Council (ERC) under the EuropeanUnion’s Horizon 2020 research and innovation programme (grant agreement No 101019254). 
 
-        ![ERC logo](/assets/media/partners/avatar.jpg)
-        ![ERC logo](/avatar.jpg)
-        ![ERC logo](/static/avatar.jpg)
+      image:
+        caption: 'ERC'
+        focal_point: Center
+        filename: partners/avatar.jpg 
 
-
-
+      # primary_action:
+      #   text: Meet Our Team
+      #   url: '#team'
+      #   icon: hero/user-group
+      # secondary_action:
+      #   text: View Publications
+      #   url: '#publications'
+      #   icon: hero/academic-cap
+    
+    
     design:
-      columns: "1"
+      # For full-screen, add `min-h-screen` below
+      css_class: ""
       background:
         color: "white"
 
+        # Option B: Team/lab image (uncomment to use instead of gradient mesh)
+        # 
 
   # - block: collection
   #   content:
