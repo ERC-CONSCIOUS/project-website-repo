@@ -15,8 +15,8 @@ sections:
       title: |
         Welcome to the ERC CONSCIOUS Project Website
       text: |
-        As members of the Sussex Centre for Consciousness Science (University of Sussex, UK), our work spans computational, experimental, and philosophical approaches towards understanding conscious experience. /
-        /
+        As members of the Sussex Centre for Consciousness Science (University of Sussex, UK), our work spans computational, experimental, and philosophical approaches towards understanding conscious experience.  
+          
         Project CONSCIOUS is funded by the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant No. 101019254).
     
       primary_action:

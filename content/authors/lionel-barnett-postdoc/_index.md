@@ -11,7 +11,7 @@ role: Postdoctoral Researcher
 #     url: https://www.example.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Information Theoretic approaches in Neuroscience
+bio: Information theoretic methods for complex systems, and functional analysis of neurophsyiological data.
 
 # Interests to show in About widget
 interests:

@@ -54,7 +54,7 @@ user_groups:
   - Postdoctoral Researchers
 ---
 
-Robert Chis-Ciure was a Fulbright Postdoctoral Research Fellow at New York University under David Chalmers, working interdisciplinarily on consciousness, cognition, and computation. He also worked on consciousness and computational modeling at the Giulio Tononi lab as a Fulbright Doctoral Student and with the Georg Northoff lab as a postdoctoral research fellow on computational and experimental measures in consciousness theories. Robert currently works on philosophical topics encompassing biological naturalism and computational neurophenomenology. 
+I’m an ERC postdoctoral research fellow in Anil Seth’s lab at the University of Sussex and Sussex Centre for Consciousness Science. Our research focuses on formalised notions of emergence and computational neurophenomenology. We’re using predictive coding models and active inference formalisms to model various phenomenal properties of experience and validate them experimentally. In doing this, we’re building toward a new methodological paradigm, Phenomenomics, to comprehensively characterise the “inner worlds” of human and, eventually, all other observers—their phenomenome—by also leveraging AI/ML strategies on large scale datasets. Before Sussex, I was a Fulbright postdoc at NYU under David Chalmers, a Tatiana Foundation postdoc in Georg Northoff’s lab, and a Fulbright Ph.D. student in Giulio Tononi’s lab, working on consciousness at the intersection of philosophy, neuroscience, and computational modelling. In my free time, I do various projects as an affiliated researcher at the Wolfram Institute.
 
 <!-- ## Current Projects
 
