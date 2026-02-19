@@ -238,20 +238,21 @@ sections:
         padding: ["4rem", 0, "4rem", 0]
 
             
-  - block: markdown
+  - block: collection
+    id: funding
     content:
       title: "Funding"
-      text: |
-        <p>This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 101019254).</p>
-
-        <figure style="margin-top:1rem; text-align:center;">
-          <img src="/static/erc-logo.png" alt="ERC logo" style="max-width:250px; width:100%; height:auto;">
-          <figcaption style="font-size:0.9rem; color:#555;">ERC</figcaption>
-        </figure>
+      text:
+        This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 101019254).</p>
+      filters:
+        folders:
+          - funding
+      
     design:
-      columns: "1"
-      background:
-        color: "white"
+      view: showcase
+      #columns: "1"
+      #background:
+      #  color: "white"
 
 
   # - block: markdown
