@@ -265,15 +265,15 @@ sections:
         This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 101019254).
 
     design:
-      css_class: "bg-white text-center py-40"  # Taller panel (more vertical padding)
+     # css_class: "bg-white text-center py-40"  # Taller panel (more vertical padding)
       title_css_class: "text-[18px] font-bold text-black"   # Small title, black
       text_css_class: "text-[16px] text-black max-w-3xl mx-auto mt-4"  # Smaller text, black, centered, constrained width
       background:
         image:
           filename: "erc-logo-background.png"  # Make sure this is in static/
           filters:
-            brightness: 1.0
-            contrast: 1.0
+           # brightness: 1.0
+           # contrast: 1.0
           parallax: false  # Disable parallax
 
   # - block: collection
