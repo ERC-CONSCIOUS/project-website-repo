@@ -7,3 +7,4 @@ image:
   caption: 'ERC logo'
   focal_point: Center
   filename: erc-logo.png
+---
