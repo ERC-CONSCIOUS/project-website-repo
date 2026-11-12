@@ -222,7 +222,7 @@ sections:
         folders:
           - publications
         exclude_featured: false
-      count: 5
+      count: 0
     design:
       view: citation
 
