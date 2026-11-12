@@ -224,7 +224,7 @@ sections:
         exclude_featured: false
       count: 0
     design:
-      view: citation
+      view: compact
 
   # - block: collection
   #   id: featured
